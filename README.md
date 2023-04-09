@@ -17,4 +17,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoLemesD&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![snake gif](https://github.com/BrenoLemesD/BrenoLemesD/blob/output/github-contribution-grid-snake.svg)

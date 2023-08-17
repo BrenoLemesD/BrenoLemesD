@@ -15,5 +15,5 @@
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![UNITY](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoLemesD&layout=compact&theme=for-the-badge)](https://github.com/BrenoLemesD/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoLemesD&layout=compact&theme=tokyonight)](https://github.com/BrenoLemesD/github-readme-stats)
 

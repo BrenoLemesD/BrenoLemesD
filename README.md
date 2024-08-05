@@ -24,8 +24,7 @@
 
 ![linha](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=BrenoLemesD-07&theme=shadow_blue&locale=pt_BR&card_width=500)](https://git.io/streak-stats)
-<div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=BrenoLemesD&theme=transparent&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
  
 <img height="200em" src="https://github-readme-stats.vercel.app/api?username=BrenoLemesD&show_icons=true&locale=en&theme=shadow_blue&rank_icon=github" />
 <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoLemesD&theme=shadow_blue&layout=donut">

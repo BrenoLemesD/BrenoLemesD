@@ -30,10 +30,6 @@
 
 ![linha](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
-[![Breno github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BrenoLemesD-07&bg_color=transparent&color=224bf3&line=FFFFFF&point=043258&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-![linha](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
-
 <div>
 <picture>
   <source

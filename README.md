@@ -8,7 +8,7 @@
 <p>
   <sup>
     <kbd>
-      <a href="https://github.com/andrrade?tab=repositories" style="font-size: 1.5em;">Clique aqui</a>
+      <a href="https://github.com/BrenoLemesD?tab=repositories" style="font-size: 1.5em;">Clique aqui</a>
     </kbd>
   </sup>
   para ver meus projetos e seja bem-vindo(a)! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">

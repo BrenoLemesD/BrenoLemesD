@@ -25,13 +25,10 @@
 ![linha](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 <div style="display: flex; flex-wrap: wrap;">
-    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=andrrade&show_icons=true&locale=en&theme=nightowl&rank_icon=github&card_width=100" />
-    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrrade&theme=nightowl&layout=compact&card_width=100">
-    <img height="140em" src="https://streak-stats.demolab.com?user=andrrade&theme=nightowl&locale=pt_BR&card_width=300">
+    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=BrenoLemesD&show_icons=true&locale=en&theme=nightowl&rank_icon=github&card_width=100" />
+    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoLemes&theme=nightowl&layout=compact&card_width=100">
+    <img height="140em" src="https://streak-stats.demolab.com?user=BrenoLemes&theme=nightowl&locale=pt_BR&card_width=300">
 </div>
- 
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=BrenoLemesD&show_icons=true&locale=en&theme=shadow_blue&rank_icon=github" />
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoLemesD&theme=shadow_blue&layout=donut">
 
 [![Breno github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dede-07&bg_color=transparent&color=224bf3&line=FFFFFF&point=043258&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 

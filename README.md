@@ -14,8 +14,6 @@
   para ver meus projetos e seja bem-vindo(a)! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">
 </p>
 
-<p><sup><kbd><a href="https://github.com/BrenoLemesD?tab=repositories" style="font-size: 2.5em;">Clique aqui</a></kbd></sup> para ver meus projetos. Espero que goste! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></sup><br></p>
-
 <h3 align="left">Linguagens Utilizadas:</h3>
 <div style="display: inline_block"><br>
   <img align="center" alt="Breno-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">

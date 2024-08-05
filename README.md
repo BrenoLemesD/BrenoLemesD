@@ -30,7 +30,7 @@
 <img height="200em" src="https://github-readme-stats.vercel.app/api?username=BrenoLemesD&show_icons=true&locale=en&theme=shadow_blue&rank_icon=github" />
 <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoLemesD&theme=shadow_blue&layout=donut">
 
-[![Breno github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BrenoLemesD-07&bg_color=transparent&color=224bf3&line=FFFFFF&point=043258&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Andre github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dede-07&bg_color=transparent&color=224bf3&line=FFFFFF&point=043258&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <picture>
   <source

@@ -28,9 +28,11 @@
 <img height="200em" src="https://github-readme-stats.vercel.app/api?username=BrenoLemesD&show_icons=true&locale=en&theme=shadow_blue&rank_icon=github" />
 <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoLemesD&theme=shadow_blue&layout=donut">
 
-
+![linha](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 [![Breno github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BrenoLemesD-07&bg_color=transparent&color=224bf3&line=FFFFFF&point=043258&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+![linha](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 <picture>
   <source
@@ -46,6 +48,14 @@
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
+</div>
+
+![linha](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
+<div>
+  <p align="center"><b>Visitors Count</b></p>
+  
+  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fandrrade&s=50&c=7fdbca&bg=00000000&no=7&ff=digi&tb=Visits%3A++&ta=" /></p><br>
 </div>
 
 ![linha](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)

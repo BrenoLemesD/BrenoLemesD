@@ -4,16 +4,24 @@
 
 <img src="https://hermes.dio.me/articles/cover/7d407b40-57ea-433a-aa6f-4c64d13f6aec.jpg" min-width="200px" max-width="200px" width="200px" align="right" alt="Pessoa programando">
 
-###### Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e estudando com o foco em Front End. 
+<p align="left">Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e estudando JavaScript.</p>
+<p>
+  <sup>
+    <kbd>
+      <a href="https://github.com/andrrade?tab=repositories" style="font-size: 1.5em;">Clique aqui</a>
+    </kbd>
+  </sup>
+  para ver meus projetos e seja bem-vindo(a)! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">
+</p>
 
 <p><sup><kbd><a href="https://github.com/BrenoLemesD?tab=repositories" style="font-size: 2.5em;">Clique aqui</a></kbd></sup> para ver meus projetos. Espero que goste! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></sup><br></p>
 
 <h3 align="left">Linguagens Utilizadas:</h3>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Laura-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Laura-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <img align="center" alt="Laura-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- <img align="center" alt="Laura-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
+  <img align="center" alt="Breno-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Breno-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ <img align="center" alt="Breno-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+ <img align="center" alt="Breno-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
 </div>
 
 ![linha](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)

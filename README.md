@@ -36,12 +36,6 @@
 ![linha](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 <div align="center">
-  <img src="https://github.com/BrenoLemesD/BrenoLemesD/raw/output/github-contribution-grid-snake.svg" alt="Jogo da cobrinha comendo commits">
-</div>
-
-![linha](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
-
-<div align="center">
   <b>Visitors Count</b>
   <br>
   <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FBrenoLemesD%2FBrenoLemesD&s=40&c=1e00ff&bg=00000000&no=7&ff=alien&tb=VISITS%3A+&ta=" />

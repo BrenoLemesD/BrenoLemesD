@@ -5,7 +5,7 @@
 <img src="https://hermes.dio.me/articles/cover/7d407b40-57ea-433a-aa6f-4c64d13f6aec.jpg" min-width="200px" max-width="200px" width="200px" align="right" alt="Pessoa programando">
 
 <p align="left">
-  Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e estudando JavaScript.
+  Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e estudando com o foco em Front-END.
   <br>
   <kbd>
     <a href="https://github.com/BrenoLemesD?tab=repositories" style="font-size: 1.5em;">Clique aqui</a>

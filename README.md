@@ -23,8 +23,8 @@
     <img src="https://streak-stats.demolab.com?user=BrenoLemesD&theme=shadow-blue&border_radius=4&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&card_width=450&card_height=200"/>
   </a>
   <br><br>
-  <img height="200em" src="https://github-readme-stats-git-master-rafaelalvesps.vercel.app/api?username=BrenoLemesD&show_icons=true&locale=en&theme=shadow_blue&rank_icon=github" />
-  <img height="200em" src="https://github-readme-stats-git-master-rafaelalvesps.vercel.app/api/top-langs/?username=BrenoLemesD&theme=shadow_blue&layout=compact">
+<img height="200em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=BrenoLemesD&show_icons=true&locale=en&theme=nightowl&rank_icon=github" />
+<img height="200em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BrenoLemesD&theme=nightowl&layout=compact">
 </div>
 
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>

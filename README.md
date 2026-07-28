@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:5772e2,100:224bf3&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:5772e2,100:224bf3&height=120&section=header"/> 
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com/?color=224bf3&size=40&center=false&vCenter=true&width=1000&lines=Olá,+eu+sou+o+Breno+Diamantino+;Estou+cursando+A.D.S+na+Fatec!;Esses+são+alguns+dos+meus+projetos...+" alt="Typing SVG"/>

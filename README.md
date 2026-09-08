@@ -1,13 +1,13 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:5772e2,100:224bf3&height=120&section=header"/> 
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=224bf3&size=40&center=false&vCenter=true&width=1000&lines=Olá,+eu+sou+o+Breno+Diamantino+;Estou+cursando+A.D.S+na+Fatec!;Esses+são+alguns+dos+meus+projetos...+" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?color=224bf3&size=40&center=false&vCenter=true&width=1000&lines=Olá,+eu+sou+o+Breno+Diamantino+;Desenvolvedor+Full-Stack!;Esses+são+alguns+dos+meus+projetos...+" alt="Typing SVG"/>
 </a>
 
 <img src="https://hermes.dio.me/articles/cover/7d407b40-57ea-433a-aa6f-4c64d13f6aec.jpg" min-width="200px" max-width="200px" width="200px" align="right" alt="Pessoa programando">
 
 <p align="left">
-  Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e estudando com o foco em desenvolvimento Full-Stack.
+  Desenvolvedor Full-Stack, atuando com React/Next.js, Node.js, TypeScript e Docker.
   <br>
   <kbd>
     <a href="https://github.com/BrenoLemesD?tab=repositories" style="font-size: 1.5em;">Clique aqui</a>
@@ -20,8 +20,8 @@
 
 <div align="center">
   <br><br>
-<img height="200em" src="https://github-readme-stats-git-master-brenolemesds-projects.vercel.app/api?username=BrenoLemesD&show_icons=true&locale=en&theme=nightowl&rank_icon=github" />
-<img height="200em" src="https://github-readme-stats-git-master-brenolemesds-projects.vercel.app/api/top-langs/?username=BrenoLemesD&theme=nightowl&layout=compact">
+<img height="200em" src="https://github-readme-stats-psi-blue-1wd9yax4fi.vercel.app/api?username=BrenoLemesD&show_icons=true&locale=en&theme=nightowl&rank_icon=github" />
+<img height="200em" src="https://github-readme-stats-psi-blue-1wd9yax4fi.vercel.app/api/top-langs/?username=BrenoLemesD&theme=nightowl&layout=compact">
 </div>
 
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
